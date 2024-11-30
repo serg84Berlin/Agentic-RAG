@@ -1,0 +1,16 @@
+{
+  "name": "agentic-rag",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@pinecone-database/pinecone": "^0.0.2",
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
